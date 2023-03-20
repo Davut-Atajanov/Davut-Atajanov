@@ -3,7 +3,7 @@ I am Davut.
 
 - 💬 Ask me about Cross-Platform mobile development, back-end, or REST APIs
 - 📫 How to reach me: Please find me on [LinkedIn](https://www.linkedin.com/in/davutatajanov/)
-- ⚡ Fun fact: I am not 3 meters tall.
+- ⚡ Fun fact: Can write "hello world" in almost 10 programming languages.
 
 <!--
 **Davut-Atajanov/Davut-Atajanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
