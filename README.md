@@ -6,6 +6,10 @@ I am Davut.
 - ⚡ Fun fact: Can write "hello world" in almost 10 programming languages.
 - 🤔 If you clone my repo, and like the code, please star my repo. I will appreciate it so much!!! Cheers
 
+My Visitor Count
+
+![Visitor Count](https://profile-counter.glitch.me/Davut-Atajanov/count.svg)
+
 <!--
 **Davut-Atajanov/Davut-Atajanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
